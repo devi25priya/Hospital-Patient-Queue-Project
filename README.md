@@ -60,14 +60,14 @@ This project shows how data structures (queues and heaps) can model critical dec
 
 ## 🔹 Sample Output
 
-##### 🚨 Emergency patient Alice added with severity 2
-##### 🧑‍⚕️ Regular patient Bob added to queue
-##### 🚨 Emergency patient Charlie added with severity 1
-##### 🧑‍⚕️ Regular patient David added to queue
-##### ⏳ Estimated wait time for Bob: 15 minutes
-##### ⏳ Estimated wait time for Charlie: 5 minutes
-##### ✅ Serving Charlie (Emergency)
-##### ✅ Serving Alice (Emergency)
-##### ✅ Serving Bob (Regular)
+###### 🚨 Emergency patient Alice added with severity 2
+###### 🧑‍⚕️ Regular patient Bob added to queue
+###### 🚨 Emergency patient Charlie added with severity 1
+###### 🧑‍⚕️ Regular patient David added to queue
+###### ⏳ Estimated wait time for Bob: 15 minutes
+###### ⏳ Estimated wait time for Charlie: 5 minutes
+###### ✅ Serving Charlie (Emergency)
+###### ✅ Serving Alice (Emergency)
+###### ✅ Serving Bob (Regular)
 
 ---

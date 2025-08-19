@@ -12,13 +12,13 @@ The system also provides an estimated wait time for patients.
 
 ## ✅ Advantages
 
--Efficient Triage: Ensures emergency patients are given immediate attention.
+- Efficient Triage: Ensures emergency patients are given immediate attention.
 
--Fair Scheduling: Regular patients are served in FIFO (First-In-First-Out) order.
+- Fair Scheduling: Regular patients are served in FIFO (First-In-First-Out) order.
 
--Realistic Simulation: Mimics real hospital workflow.
+- Realistic Simulation: Mimics real hospital workflow.
 
--Scalable: Can be extended to multiple doctors, departments, or severity levels.
+- Scalable: Can be extended to multiple doctors, departments, or severity levels.
 
 
 
@@ -38,13 +38,13 @@ The system also provides an estimated wait time for patients.
 
 ## 🎯 Usefulness
 
--Helps understand priority scheduling in real-world systems.
+- Helps understand priority scheduling in real-world systems.
 
--Bridges theory (queues, heaps) with practical hospital management.
+- Bridges theory (queues, heaps) with practical hospital management.
 
--Can be extended for multi-threading and resource allocation problems.
+- Can be extended for multi-threading and resource allocation problems.
 
--Useful for DSA practice and simulations.
+- Useful for DSA practice and simulations.
 
 
 
@@ -60,22 +60,14 @@ This project shows how data structures (queues and heaps) can model critical dec
 
 ## 🔹 Sample Output
 
-🚨 Emergency patient Alice added with severity 2
-🧑‍⚕️ Regular patient Bob added to queue
-🚨 Emergency patient Charlie added with severity 1
-🧑‍⚕️ Regular patient David added to queue
-⏳ Estimated wait time for Bob: 15 minutes
-⏳ Estimated wait time for Charlie: 5 minutes
-✅ Serving Charlie (Emergency)
-✅ Serving Alice (Emergency)
-✅ Serving Bob (Regular)
-
----
-## 📜 Service History:
-
-~ Charlie (Emergency) at Tue Aug 19 16:22:12 2025
-~ Alice (Emergency) at Tue Aug 19 16:22:12 2025
-~ Bob (Regular) at Tue Aug 19 16:22:12 2025
-
+- 🚨 Emergency patient Alice added with severity 2
+- 🧑‍⚕️ Regular patient Bob added to queue
+- 🚨 Emergency patient Charlie added with severity 1
+- 🧑‍⚕️ Regular patient David added to queue
+- ⏳ Estimated wait time for Bob: 15 minutes
+- ⏳ Estimated wait time for Charlie: 5 minutes
+- ✅ Serving Charlie (Emergency)
+- ✅ Serving Alice (Emergency)
+- ✅ Serving Bob (Regular)
 
 ---
